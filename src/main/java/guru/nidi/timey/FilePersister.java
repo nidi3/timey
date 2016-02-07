@@ -121,5 +121,4 @@ public class FilePersister implements Persister {
                 .collect(Collectors.toList());
     }
 
-
 }
